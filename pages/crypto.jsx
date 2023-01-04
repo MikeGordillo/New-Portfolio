@@ -17,7 +17,7 @@ const crypto = () => {
           alt='/'
         />
         <div className='absolute top-[70%] max-w-[1240px] w-full left-[50%] right-[50%] translate-x-[-50%] translate-y-[-50%] text-white z-10 p-2'>
-          <h2 className='py-2'>Crypto App</h2>
+          <h2 className='py-2'>Slither Game</h2>
           <h3>React JS / Tailwind / Firebase</h3>
         </div>
       </div>
@@ -38,14 +38,14 @@ const crypto = () => {
             package. This application was built using the Coin Gecko API.
           </p>
           <a
-            href='https://github.com/fireclint/crypto-react-firebase'
+            href='https://github.com/MikeGordillo/SlitherGame'
             target='_blank'
             rel='noreferrer'
           >
             <button className='px-8 py-2 mt-4 mr-8'>Code</button>
           </a>
           <a
-            href='https://cryptobase-yt.web.app/'
+            href='https://mikegordillo.github.io/SlitherGame/'
             target='_blank'
             rel='noreferrer'
           >

@@ -17,7 +17,7 @@ const property = () => {
           alt='/'
         />
         <div className='absolute top-[70%] max-w-[1240px] w-full left-[50%] right-[50%] translate-x-[-50%] translate-y-[-50%] text-white z-10 p-2'>
-          <h2 className='py-2'>Property Finders</h2>
+          <h2 className='py-2'>Covid clean app</h2>
           <h3>React JS / Tailwind / Firebase</h3>
         </div>
       </div>
@@ -37,14 +37,14 @@ const property = () => {
             properties. This is made possible with Zillow API.
           </p>
           <a
-            href='https://github.com/fireclint/property-finder'
+            href='https://github.com/MikeGordillo/CovidAPP'
             target='_blank'
             rel='noreferrer'
           >
             <button className='px-8 py-2 mt-4 mr-8'>Code</button>
           </a>
           <a
-            href='https://property-finder-development.web.app/'
+            href='https://github.com/MikeGordillo/CovidAPP'
             target='_blank'
             rel='noreferrer'
           >

@@ -17,7 +17,7 @@ const twitch = () => {
           alt='/'
         />
         <div className='absolute top-[70%] max-w-[1240px] w-full left-[50%] right-[50%] translate-x-[-50%] translate-y-[-50%] text-white z-10 p-2'>
-          <h2 className='py-2'>Twitch UI</h2>
+          <h2 className='py-2'>Game For The Girls</h2>
           <h3>Next JS / Tailwind / Next Auth</h3>
         </div>
       </div>
@@ -36,14 +36,14 @@ const twitch = () => {
             the Image component, built in routing, and Next/Auth Context.
           </p>
           <a
-            href='https://twitch-nextjs-tailwind.vercel.app/'
+            href='https://github.com/MikeGordillo/GameForTheGirls'
             target='_blank'
             rel='noreferrer'
           >
             <button className='px-8 py-2 mt-4 mr-8'>Demo</button>
           </a>
           <a
-            href='https://github.com/fireclint/twitch-nextjs-tailwind'
+            href='https://mikegordillo.github.io/GameForTheGirls/'
             target='_blank'
             rel='noreferrer'
           >
